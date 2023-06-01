@@ -1,3 +1,2 @@
 flask
 gunicorn
-pip install gunicorn
